@@ -16,6 +16,7 @@
 # If you're looking for the configuration for the remote backend, you can find that
 # in backend.tf.
 
+#temporary comment adding to test git functionality
 
 resource "fakewebservices_vpc" "primary_vpc" {
   name       = "Primary VPC"
